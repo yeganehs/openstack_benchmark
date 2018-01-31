@@ -1,0 +1,20 @@
+
+/dev/vda1:
+ Timing cached reads:   1940 MB in  2.00 seconds = 970.75 MB/sec
+ Timing buffered disk reads: 496 MB in  3.02 seconds = 164.43 MB/sec
+
+/dev/vda1:
+ Timing cached reads:   2088 MB in  2.00 seconds = 1044.84 MB/sec
+ Timing buffered disk reads: 506 MB in  3.01 seconds = 168.20 MB/sec
+
+/dev/vda1:
+ Timing cached reads:   2050 MB in  2.00 seconds = 1025.94 MB/sec
+ Timing buffered disk reads: 476 MB in  3.00 seconds = 158.51 MB/sec
+
+/dev/vda1:
+ Timing cached reads:   2084 MB in  2.00 seconds = 1042.62 MB/sec
+ Timing buffered disk reads: 510 MB in  3.00 seconds = 169.82 MB/sec
+
+/dev/vda1:
+ Timing cached reads:   1992 MB in  2.00 seconds = 996.71 MB/sec
+ Timing buffered disk reads: 488 MB in  3.01 seconds = 162.19 MB/sec
