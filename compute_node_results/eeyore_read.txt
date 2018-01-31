@@ -1,0 +1,20 @@
+
+/dev/sda:
+ Timing cached reads:   13224 MB in  2.00 seconds = 6624.88 MB/sec
+ Timing buffered disk reads: 352 MB in  3.00 seconds = 117.24 MB/sec
+
+/dev/sda:
+ Timing cached reads:   14384 MB in  2.00 seconds = 7207.18 MB/sec
+ Timing buffered disk reads: 340 MB in  3.01 seconds = 112.83 MB/sec
+
+/dev/sda:
+ Timing cached reads:   14092 MB in  2.00 seconds = 7060.71 MB/sec
+ Timing buffered disk reads: 338 MB in  3.01 seconds = 112.26 MB/sec
+
+/dev/sda:
+ Timing cached reads:   12550 MB in  1.99 seconds = 6294.40 MB/sec
+ Timing buffered disk reads: 326 MB in  3.01 seconds = 108.22 MB/sec
+
+/dev/sda:
+ Timing cached reads:   13492 MB in  2.00 seconds = 6759.50 MB/sec
+ Timing buffered disk reads: 336 MB in  3.01 seconds = 111.78 MB/sec

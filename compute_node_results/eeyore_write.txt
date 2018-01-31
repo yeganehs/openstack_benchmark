@@ -1,0 +1,30 @@
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.284851 s, 719 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 1.38255 s, 148 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.849247 s, 241 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.831059 s, 246 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.832407 s, 246 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.838103 s, 244 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 1.07921 s, 190 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.83688 s, 245 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 0.830701 s, 247 MB/s
+25000+0 records in
+25000+0 records out
+204800000 bytes (205 MB, 195 MiB) copied, 1.4019 s, 146 MB/s
