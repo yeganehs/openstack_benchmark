@@ -1,0 +1,25 @@
+stress-ng: info:  [27835] dispatching hogs: 4 cpu
+stress-ng: info:  [27835] successful run completed in 60.00s (1 min, 0.00 secs)
+stress-ng: info:  [27835] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [27835]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [27835] cpu              34171     60.00    239.99      0.00       569.50       142.39
+stress-ng: info:  [27889] dispatching hogs: 4 cpu
+stress-ng: info:  [27889] successful run completed in 60.01s (1 min, 0.01 secs)
+stress-ng: info:  [27889] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [27889]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [27889] cpu              34730     60.00    240.00      0.00       578.80       144.71
+stress-ng: info:  [27943] dispatching hogs: 4 cpu
+stress-ng: info:  [27943] successful run completed in 60.01s (1 min, 0.01 secs)
+stress-ng: info:  [27943] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [27943]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [27943] cpu              34631     60.00    239.99      0.00       577.14       144.30
+stress-ng: info:  [27997] dispatching hogs: 4 cpu
+stress-ng: info:  [27997] successful run completed in 60.01s (1 min, 0.01 secs)
+stress-ng: info:  [27997] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [27997]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [27997] cpu              33771     60.00    239.99      0.00       562.83       140.72
+stress-ng: info:  [28052] dispatching hogs: 4 cpu
+stress-ng: info:  [28052] successful run completed in 60.01s (1 min, 0.01 secs)
+stress-ng: info:  [28052] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [28052]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [28052] cpu              33974     60.00    240.00      0.00       566.19       141.56

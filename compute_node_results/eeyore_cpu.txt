@@ -1,0 +1,225 @@
+stress-ng: info:  [29426] dispatching hogs: 16 cpu
+stress-ng: info:  [29426] successful run completed in 60.46s (1 min, 0.46 secs)
+stress-ng: info:  [29426] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [29426]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [29426] cpu              56112     60.04    865.01     19.26       934.64        63.46
+stress-ng: info:  [29426] cpu:
+stress-ng: info:  [29426]          2,189,590,488,624 CPU Cycles                    36.22 B/sec
+stress-ng: info:  [29426]            987,485,090,256 Instructions                  16.33 B/sec (0.451 instr. per cycle)
+stress-ng: info:  [29426]             91,388,065,216 Cache References               1.51 B/sec
+stress-ng: info:  [29426]                 79,407,520 Cache Misses                   1.31 M/sec ( 0.09%)
+stress-ng: info:  [29426]          1,577,300,739,232 Stalled Cycles Frontend       26.09 B/sec
+stress-ng: info:  [29426]            640,815,737,968 Stalled Cycles Backend        10.60 B/sec
+stress-ng: info:  [29426]            121,057,909,744 Branch Instructions            2.00 B/sec
+stress-ng: info:  [29426]                961,873,376 Branch Misses                 15.91 M/sec ( 0.79%)
+stress-ng: info:  [29426]          2,094,175,173,808 Total Cycles                  34.64 B/sec
+stress-ng: info:  [29426]                     31,328 Page Faults Minor            518.17 sec  
+stress-ng: info:  [29426]                          0 Page Faults Major              0.00 sec  
+stress-ng: info:  [29426]                    108,992 Context Switches               1.80 K/sec
+stress-ng: info:  [29426]                      1,072 CPU Migrations                17.73 sec  
+stress-ng: info:  [29426]                          0 Alignment Faults               0.00 sec  
+stress-ng: info:  [29426]                      3,072 Page Faults User              50.81 sec  
+stress-ng: info:  [29426]                          0 Page Faults Kernel             0.00 sec  
+stress-ng: info:  [29426]                        992 System Call Enter             16.41 sec  
+stress-ng: info:  [29426]                        976 System Call Exit              16.14 sec  
+stress-ng: info:  [29426]                        848 TLB Flushes                   14.03 sec  
+stress-ng: info:  [29426]                        896 Kmalloc                       14.82 sec  
+stress-ng: info:  [29426]                        400 Kmalloc Node                   6.62 sec  
+stress-ng: info:  [29426]                      2,736 Kfree                         45.25 sec  
+stress-ng: info:  [29426]                      5,248 Kmem Cache Alloc              86.80 sec  
+stress-ng: info:  [29426]                        384 Kmem Cache Alloc Node          6.35 sec  
+stress-ng: info:  [29426]                      8,608 Kmem Cache Free              142.38 sec  
+stress-ng: info:  [29426]                      3,200 MM Page Alloc                 52.93 sec  
+stress-ng: info:  [29426]                        288 MM Page Free                   4.76 sec  
+stress-ng: info:  [29426]                    699,520 RCU Utilization               11.57 K/sec
+stress-ng: info:  [29426]                      2,976 Sched Migrate Task            49.22 sec  
+stress-ng: info:  [29426]                          0 Sched Move NUMA                0.00 sec  
+stress-ng: info:  [29426]                     64,352 Sched Wakeup                   1.06 K/sec
+stress-ng: info:  [29426]                         32 Signal Generate                0.53 sec  
+stress-ng: info:  [29426]                         16 Signal Deliver                 0.26 sec  
+stress-ng: info:  [29426]                      2,336 IRQ Entry                     38.64 sec  
+stress-ng: info:  [29426]                      2,336 IRQ Exit                      38.64 sec  
+stress-ng: info:  [29426]                    253,488 Soft IRQ Entry                 4.19 K/sec
+stress-ng: info:  [29426]                    253,488 Soft IRQ Exit                  4.19 K/sec
+stress-ng: info:  [29426]                          0 Writeback Dirty Inode          0.00 sec  
+stress-ng: info:  [29426]                          0 Writeback Dirty Page           0.00 sec  
+stress-ng: info:  [29482] dispatching hogs: 16 cpu
+stress-ng: info:  [29482] successful run completed in 60.49s (1 min, 0.49 secs)
+stress-ng: info:  [29482] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [29482]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [29482] cpu              56438     60.03    865.85     19.41       940.09        63.75
+stress-ng: info:  [29482] cpu:
+stress-ng: info:  [29482]          2,278,090,529,072 CPU Cycles                    37.66 B/sec
+stress-ng: info:  [29482]          1,005,931,688,352 Instructions                  16.63 B/sec (0.442 instr. per cycle)
+stress-ng: info:  [29482]             96,360,479,248 Cache References               1.59 B/sec
+stress-ng: info:  [29482]                 33,685,856 Cache Misses                   0.56 M/sec ( 0.03%)
+stress-ng: info:  [29482]          1,655,254,100,896 Stalled Cycles Frontend       27.36 B/sec
+stress-ng: info:  [29482]            830,676,368,096 Stalled Cycles Backend        13.73 B/sec
+stress-ng: info:  [29482]            123,219,756,896 Branch Instructions            2.04 B/sec
+stress-ng: info:  [29482]                978,272,368 Branch Misses                 16.17 M/sec ( 0.79%)
+stress-ng: info:  [29482]          2,168,780,815,776 Total Cycles                  35.85 B/sec
+stress-ng: info:  [29482]                     31,312 Page Faults Minor            517.62 sec  
+stress-ng: info:  [29482]                          0 Page Faults Major              0.00 sec  
+stress-ng: info:  [29482]                    113,152 Context Switches               1.87 K/sec
+stress-ng: info:  [29482]                        544 CPU Migrations                 8.99 sec  
+stress-ng: info:  [29482]                          0 Alignment Faults               0.00 sec  
+stress-ng: info:  [29482]                      9,344 Page Faults User             154.47 sec  
+stress-ng: info:  [29482]                          0 Page Faults Kernel             0.00 sec  
+stress-ng: info:  [29482]                        992 System Call Enter             16.40 sec  
+stress-ng: info:  [29482]                        976 System Call Exit              16.13 sec  
+stress-ng: info:  [29482]                        848 TLB Flushes                   14.02 sec  
+stress-ng: info:  [29482]                      1,008 Kmalloc                       16.66 sec  
+stress-ng: info:  [29482]                          0 Kmalloc Node                   0.00 sec  
+stress-ng: info:  [29482]                      2,864 Kfree                         47.34 sec  
+stress-ng: info:  [29482]                      3,824 Kmem Cache Alloc              63.21 sec  
+stress-ng: info:  [29482]                          0 Kmem Cache Alloc Node          0.00 sec  
+stress-ng: info:  [29482]                      8,192 Kmem Cache Free              135.42 sec  
+stress-ng: info:  [29482]                      3,088 MM Page Alloc                 51.05 sec  
+stress-ng: info:  [29482]                        208 MM Page Free                   3.44 sec  
+stress-ng: info:  [29482]                    761,248 RCU Utilization               12.58 K/sec
+stress-ng: info:  [29482]                      2,368 Sched Migrate Task            39.15 sec  
+stress-ng: info:  [29482]                          0 Sched Move NUMA                0.00 sec  
+stress-ng: info:  [29482]                    113,296 Sched Wakeup                   1.87 K/sec
+stress-ng: info:  [29482]                         16 Signal Generate                0.26 sec  
+stress-ng: info:  [29482]                         16 Signal Deliver                 0.26 sec  
+stress-ng: info:  [29482]                      1,744 IRQ Entry                     28.83 sec  
+stress-ng: info:  [29482]                      1,744 IRQ Exit                      28.83 sec  
+stress-ng: info:  [29482]                    279,312 Soft IRQ Entry                 4.62 K/sec
+stress-ng: info:  [29482]                    279,312 Soft IRQ Exit                  4.62 K/sec
+stress-ng: info:  [29482]                          0 Writeback Dirty Inode          0.00 sec  
+stress-ng: info:  [29482]                          0 Writeback Dirty Page           0.00 sec  
+stress-ng: info:  [29542] dispatching hogs: 16 cpu
+stress-ng: info:  [29542] successful run completed in 60.57s (1 min, 0.57 secs)
+stress-ng: info:  [29542] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [29542]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [29542] cpu              56767     60.04    869.16     17.51       945.49        64.02
+stress-ng: info:  [29542] cpu:
+stress-ng: info:  [29542]          2,324,781,771,568 CPU Cycles                    38.38 B/sec
+stress-ng: info:  [29542]          1,037,637,477,872 Instructions                  17.13 B/sec (0.446 instr. per cycle)
+stress-ng: info:  [29542]             93,578,872,880 Cache References               1.55 B/sec
+stress-ng: info:  [29542]                 27,363,392 Cache Misses                   0.45 M/sec ( 0.03%)
+stress-ng: info:  [29542]          1,682,563,359,536 Stalled Cycles Frontend       27.78 B/sec
+stress-ng: info:  [29542]            757,221,075,344 Stalled Cycles Backend        12.50 B/sec
+stress-ng: info:  [29542]            127,003,132,160 Branch Instructions            2.10 B/sec
+stress-ng: info:  [29542]              1,002,587,424 Branch Misses                 16.55 M/sec ( 0.79%)
+stress-ng: info:  [29542]          2,215,004,358,656 Total Cycles                  36.57 B/sec
+stress-ng: info:  [29542]                     31,328 Page Faults Minor            517.23 sec  
+stress-ng: info:  [29542]                          0 Page Faults Major              0.00 sec  
+stress-ng: info:  [29542]                     76,256 Context Switches               1.26 K/sec
+stress-ng: info:  [29542]                        336 CPU Migrations                 5.55 sec  
+stress-ng: info:  [29542]                          0 Alignment Faults               0.00 sec  
+stress-ng: info:  [29542]                      9,360 Page Faults User             154.54 sec  
+stress-ng: info:  [29542]                          0 Page Faults Kernel             0.00 sec  
+stress-ng: info:  [29542]                        992 System Call Enter             16.38 sec  
+stress-ng: info:  [29542]                        976 System Call Exit              16.11 sec  
+stress-ng: info:  [29542]                        848 TLB Flushes                   14.00 sec  
+stress-ng: info:  [29542]                        608 Kmalloc                       10.04 sec  
+stress-ng: info:  [29542]                         64 Kmalloc Node                   1.06 sec  
+stress-ng: info:  [29542]                      2,912 Kfree                         48.08 sec  
+stress-ng: info:  [29542]                      1,680 Kmem Cache Alloc              27.74 sec  
+stress-ng: info:  [29542]                         64 Kmem Cache Alloc Node          1.06 sec  
+stress-ng: info:  [29542]                     18,304 Kmem Cache Free              302.20 sec  
+stress-ng: info:  [29542]                      6,224 MM Page Alloc                102.76 sec  
+stress-ng: info:  [29542]                      3,088 MM Page Free                  50.98 sec  
+stress-ng: info:  [29542]                    651,488 RCU Utilization               10.76 K/sec
+stress-ng: info:  [29542]                        896 Sched Migrate Task            14.79 sec  
+stress-ng: info:  [29542]                          0 Sched Move NUMA                0.00 sec  
+stress-ng: info:  [29542]                     63,664 Sched Wakeup                   1.05 K/sec
+stress-ng: info:  [29542]                          0 Signal Generate                0.00 sec  
+stress-ng: info:  [29542]                         16 Signal Deliver                 0.26 sec  
+stress-ng: info:  [29542]                      2,608 IRQ Entry                     43.06 sec  
+stress-ng: info:  [29542]                      2,608 IRQ Exit                      43.06 sec  
+stress-ng: info:  [29542]                    262,432 Soft IRQ Entry                 4.33 K/sec
+stress-ng: info:  [29542]                    262,432 Soft IRQ Exit                  4.33 K/sec
+stress-ng: info:  [29542]                          0 Writeback Dirty Inode          0.00 sec  
+stress-ng: info:  [29542]                          0 Writeback Dirty Page           0.00 sec  
+stress-ng: info:  [29601] dispatching hogs: 16 cpu
+stress-ng: info:  [29601] successful run completed in 60.48s (1 min, 0.48 secs)
+stress-ng: info:  [29601] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [29601]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [29601] cpu              56517     60.04    867.91     17.85       941.33        63.81
+stress-ng: info:  [29601] cpu:
+stress-ng: info:  [29601]          2,272,580,700,880 CPU Cycles                    37.58 B/sec
+stress-ng: info:  [29601]          1,022,034,945,296 Instructions                  16.90 B/sec (0.450 instr. per cycle)
+stress-ng: info:  [29601]            107,678,342,256 Cache References               1.78 B/sec
+stress-ng: info:  [29601]                 73,766,176 Cache Misses                   1.22 M/sec ( 0.07%)
+stress-ng: info:  [29601]          1,638,421,751,136 Stalled Cycles Frontend       27.09 B/sec
+stress-ng: info:  [29601]            778,068,780,544 Stalled Cycles Backend        12.87 B/sec
+stress-ng: info:  [29601]            125,088,115,088 Branch Instructions            2.07 B/sec
+stress-ng: info:  [29601]              1,003,381,168 Branch Misses                 16.59 M/sec ( 0.80%)
+stress-ng: info:  [29601]          2,170,100,200,352 Total Cycles                  35.88 B/sec
+stress-ng: info:  [29601]                     31,328 Page Faults Minor            518.02 sec  
+stress-ng: info:  [29601]                          0 Page Faults Major              0.00 sec  
+stress-ng: info:  [29601]                     69,264 Context Switches               1.15 K/sec
+stress-ng: info:  [29601]                        880 CPU Migrations                14.55 sec  
+stress-ng: info:  [29601]                          0 Alignment Faults               0.00 sec  
+stress-ng: info:  [29601]                      9,360 Page Faults User             154.77 sec  
+stress-ng: info:  [29601]                          0 Page Faults Kernel             0.00 sec  
+stress-ng: info:  [29601]                        992 System Call Enter             16.40 sec  
+stress-ng: info:  [29601]                        976 System Call Exit              16.14 sec  
+stress-ng: info:  [29601]                        848 TLB Flushes                   14.02 sec  
+stress-ng: info:  [29601]                        304 Kmalloc                        5.03 sec  
+stress-ng: info:  [29601]                        160 Kmalloc Node                   2.65 sec  
+stress-ng: info:  [29601]                      1,488 Kfree                         24.60 sec  
+stress-ng: info:  [29601]                      2,464 Kmem Cache Alloc              40.74 sec  
+stress-ng: info:  [29601]                        160 Kmem Cache Alloc Node          2.65 sec  
+stress-ng: info:  [29601]                      1,984 Kmem Cache Free               32.81 sec  
+stress-ng: info:  [29601]                      3,152 MM Page Alloc                 52.12 sec  
+stress-ng: info:  [29601]                        112 MM Page Free                   1.85 sec  
+stress-ng: info:  [29601]                    630,848 RCU Utilization               10.43 K/sec
+stress-ng: info:  [29601]                      2,112 Sched Migrate Task            34.92 sec  
+stress-ng: info:  [29601]                          0 Sched Move NUMA                0.00 sec  
+stress-ng: info:  [29601]                     33,792 Sched Wakeup                 558.76 sec  
+stress-ng: info:  [29601]                          0 Signal Generate                0.00 sec  
+stress-ng: info:  [29601]                         16 Signal Deliver                 0.26 sec  
+stress-ng: info:  [29601]                      1,024 IRQ Entry                     16.93 sec  
+stress-ng: info:  [29601]                      1,024 IRQ Exit                      16.93 sec  
+stress-ng: info:  [29601]                    258,208 Soft IRQ Entry                 4.27 K/sec
+stress-ng: info:  [29601]                    258,208 Soft IRQ Exit                  4.27 K/sec
+stress-ng: info:  [29601]                          0 Writeback Dirty Inode          0.00 sec  
+stress-ng: info:  [29601]                          0 Writeback Dirty Page           0.00 sec  
+stress-ng: info:  [29658] dispatching hogs: 16 cpu
+stress-ng: info:  [29658] successful run completed in 60.45s (1 min, 0.45 secs)
+stress-ng: info:  [29658] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info:  [29658]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [29658] cpu              56878     60.03    864.58     21.74       947.42        64.17
+stress-ng: info:  [29658] cpu:
+stress-ng: info:  [29658]          2,124,552,790,352 CPU Cycles                    35.15 B/sec
+stress-ng: info:  [29658]            985,349,461,104 Instructions                  16.30 B/sec (0.464 instr. per cycle)
+stress-ng: info:  [29658]             85,770,768,080 Cache References               1.42 B/sec
+stress-ng: info:  [29658]                 94,850,608 Cache Misses                   1.57 M/sec ( 0.11%)
+stress-ng: info:  [29658]          1,513,004,115,920 Stalled Cycles Frontend       25.03 B/sec
+stress-ng: info:  [29658]            639,185,710,848 Stalled Cycles Backend        10.57 B/sec
+stress-ng: info:  [29658]            120,725,134,608 Branch Instructions            2.00 B/sec
+stress-ng: info:  [29658]                963,980,176 Branch Misses                 15.95 M/sec ( 0.80%)
+stress-ng: info:  [29658]          2,020,226,450,704 Total Cycles                  33.42 B/sec
+stress-ng: info:  [29658]                     31,328 Page Faults Minor            518.29 sec  
+stress-ng: info:  [29658]                          0 Page Faults Major              0.00 sec  
+stress-ng: info:  [29658]                    102,080 Context Switches               1.69 K/sec
+stress-ng: info:  [29658]                      1,392 CPU Migrations                23.03 sec  
+stress-ng: info:  [29658]                          0 Alignment Faults               0.00 sec  
+stress-ng: info:  [29658]                     15,616 Page Faults User             258.35 sec  
+stress-ng: info:  [29658]                          0 Page Faults Kernel             0.00 sec  
+stress-ng: info:  [29658]                        992 System Call Enter             16.41 sec  
+stress-ng: info:  [29658]                        976 System Call Exit              16.15 sec  
+stress-ng: info:  [29658]                        848 TLB Flushes                   14.03 sec  
+stress-ng: info:  [29658]                        784 Kmalloc                       12.97 sec  
+stress-ng: info:  [29658]                        224 Kmalloc Node                   3.71 sec  
+stress-ng: info:  [29658]                      1,568 Kfree                         25.94 sec  
+stress-ng: info:  [29658]                      1,968 Kmem Cache Alloc              32.56 sec  
+stress-ng: info:  [29658]                        224 Kmem Cache Alloc Node          3.71 sec  
+stress-ng: info:  [29658]                      2,736 Kmem Cache Free               45.26 sec  
+stress-ng: info:  [29658]                      3,072 MM Page Alloc                 50.82 sec  
+stress-ng: info:  [29658]                          0 MM Page Free                   0.00 sec  
+stress-ng: info:  [29658]                    668,704 RCU Utilization               11.06 K/sec
+stress-ng: info:  [29658]                      1,312 Sched Migrate Task            21.71 sec  
+stress-ng: info:  [29658]                          0 Sched Move NUMA                0.00 sec  
+stress-ng: info:  [29658]                     68,624 Sched Wakeup                   1.14 K/sec
+stress-ng: info:  [29658]                         32 Signal Generate                0.53 sec  
+stress-ng: info:  [29658]                         16 Signal Deliver                 0.26 sec  
+stress-ng: info:  [29658]                        848 IRQ Entry                     14.03 sec  
+stress-ng: info:  [29658]                        848 IRQ Exit                      14.03 sec  
+stress-ng: info:  [29658]                    243,296 Soft IRQ Entry                 4.03 K/sec
+stress-ng: info:  [29658]                    243,296 Soft IRQ Exit                  4.03 K/sec
+stress-ng: info:  [29658]                          0 Writeback Dirty Inode          0.00 sec  
+stress-ng: info:  [29658]                          0 Writeback Dirty Page           0.00 sec  
