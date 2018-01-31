@@ -1,0 +1,25 @@
+stress-ng: info: [32689] dispatching hogs: 4 cpu
+stress-ng: info: [32689] successful run completed in 60.32s
+stress-ng: info: [32689] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [32689]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [32689] cpu                360     60.21    210.40     22.62         5.98         1.54
+stress-ng: info: [32695] dispatching hogs: 4 cpu
+stress-ng: info: [32695] successful run completed in 60.24s
+stress-ng: info: [32695] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [32695]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [32695] cpu                357     60.14    215.57     18.17         5.94         1.53
+stress-ng: info: [32700] dispatching hogs: 4 cpu
+stress-ng: info: [32700] successful run completed in 60.29s
+stress-ng: info: [32700] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [32700]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [32700] cpu                358     60.15    210.02     23.57         5.95         1.53
+stress-ng: info: [32705] dispatching hogs: 4 cpu
+stress-ng: info: [32705] successful run completed in 60.47s
+stress-ng: info: [32705] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [32705]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [32705] cpu                362     60.28    206.67     23.32         6.01         1.57
+stress-ng: info: [32711] dispatching hogs: 4 cpu
+stress-ng: info: [32711] successful run completed in 60.61s
+stress-ng: info: [32711] stressor      bogo ops real time  usr time  sys time   bogo ops/s   bogo ops/s
+stress-ng: info: [32711]                          (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info: [32711] cpu                359     60.47    212.02     23.97         5.94         1.52
